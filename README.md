@@ -19,7 +19,7 @@ Computer Science student at **Northumbria University** (Newcastle, UK) and **Pre
 
 ### Hackathons
 - **🏆 [AWS City](https://github.com/salman-abdulrazaq-ali/aws-city)**, AWS Hackathon at Northumbria (2026): **won the AWS Choice Award**, and the team was invited to the AWS North Conference. A Chrome extension that teaches AWS as a city-building game, with Claude agents on Amazon Bedrock.
-- **[Orecast](https://github.com/salman-abdulrazaq-ali/oxhack-2026)**, [OxHack 2026](https://oxhack-2026.devpost.com/), University of Oxford's student-led hackathon (356 participants), **HRT track**: Best Use of Data for Predictions and Decision Making. [Live demo](https://oxhack-land-arbitrage.vercel.app). Built with Amit Vijapur, Muhammad Ahmed and Arjun Ozik.<br>
+- **[Orecast](https://github.com/salman-abdulrazaq-ali/oxhack-2026)**, [OxHack 2026](https://oxhack-2026.devpost.com/), University of Oxford hackathon (356 participants), **HRT track**: Best Use of Data for Predictions and Decision Making. [Live demo](https://oxhack-land-arbitrage.vercel.app). Built with Amit Vijapur, Muhammad Ahmed and Arjun Ozik.<br>
   Sponsors: HRT (Platinum) · Citadel · Entangl · Jane Street · Oxford Asset Management · Zed · Talos · Hackathons UK · MLH · GitHub Education
 
 ### Connect
